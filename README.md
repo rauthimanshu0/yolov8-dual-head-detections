@@ -7,6 +7,8 @@ This repository adds a dual‑head (two‑axis) detection capability to Ultralyt
 
 The modifications remain backward compatible with Ultralytics’ CLI and Python APIs.
 
+<img width="1280" height="685" alt="yolo_dual_examples" src="https://github.com/user-attachments/assets/1d0c069e-f920-4423-8ec3-8c16e66b7944" />
+
 ---
 
 ## Table of Contents
