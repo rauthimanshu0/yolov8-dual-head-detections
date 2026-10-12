@@ -227,6 +227,8 @@ head:
 
 ---
 
+<img width="587" height="807" alt="dual_head_yolo_architecture2" src="https://github.com/user-attachments/assets/feadf0c8-5a7f-4cff-ad84-e50f1d8f5247" />
+
 ## Training
 
 ### Training (Detection, Dual‑Head)
