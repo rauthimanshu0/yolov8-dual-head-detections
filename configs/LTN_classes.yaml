@@ -1,0 +1,109 @@
+path: /home/LTN_data/LTN_data
+train: images/train
+val: images/validation
+test: images/test
+
+# 15 species * 5 stages 
+nc: 75
+
+names_head1:
+  0: Cacoxnus indagator
+  1: Chelostoma campanularum
+  2: Chelostoma florisomne
+  3: Coeliopencyrtus
+  4: Eumenidae
+  5: Heriades
+  6: Hylaeus
+  7: Isodontia mexicana
+  8: Megachile
+  9: Osmia bicornis
+  10: Osmia cornuta
+  11: Passaloecus
+  12: Pemphredon
+  13: Psenulus
+  14: Trypoxylon
+
+names_head2:
+  0: DauLv
+  1: DeadLv
+  2: Hatched
+  3: Lv
+  4: OldFood
+
+# joint_id = species_index * 5 + stage_index
+names:
+  0:  Cacoxnus indagator - DauLv
+  1:  Cacoxnus indagator - DeadLv
+  2:  Cacoxnus indagator - Hatched
+  3:  Cacoxnus indagator - Lv
+  4:  Cacoxnus indagator - OldFood
+  5:  Chelostoma campanularum - DauLv
+  6:  Chelostoma campanularum - DeadLv
+  7:  Chelostoma campanularum - Hatched
+  8:  Chelostoma campanularum - Lv
+  9:  Chelostoma campanularum - OldFood
+  10: Chelostoma florisomne - DauLv
+  11: Chelostoma florisomne - DeadLv
+  12: Chelostoma florisomne - Hatched
+  13: Chelostoma florisomne - Lv
+  14: Chelostoma florisomne - OldFood
+  15: Coeliopencyrtus - DauLv
+  16: Coeliopencyrtus - DeadLv
+  17: Coeliopencyrtus - Hatched
+  18: Coeliopencyrtus - Lv
+  19: Coeliopencyrtus - OldFood
+  20: Eumenidae - DauLv
+  21: Eumenidae - DeadLv
+  22: Eumenidae - Hatched
+  23: Eumenidae - Lv
+  24: Eumenidae - OldFood
+  25: Heriades - DauLv
+  26: Heriades - DeadLv
+  27: Heriades - Hatched
+  28: Heriades - Lv
+  29: Heriades - OldFood
+  30: Hylaeus - DauLv
+  31: Hylaeus - DeadLv
+  32: Hylaeus - Hatched
+  33: Hylaeus - Lv
+  34: Hylaeus - OldFood
+  35: Isodontia mexicana - DauLv
+  36: Isodontia mexicana - DeadLv
+  37: Isodontia mexicana - Hatched
+  38: Isodontia mexicana - Lv
+  39: Isodontia mexicana - OldFood
+  40: Megachile - DauLv
+  41: Megachile - DeadLv
+  42: Megachile - Hatched
+  43: Megachile - Lv
+  44: Megachile - OldFood
+  45: Osmia bicornis - DauLv
+  46: Osmia bicornis - DeadLv
+  47: Osmia bicornis - Hatched
+  48: Osmia bicornis - Lv
+  49: Osmia bicornis - OldFood
+  50: Osmia cornuta - DauLv
+  51: Osmia cornuta - DeadLv
+  52: Osmia cornuta - Hatched
+  53: Osmia cornuta - Lv
+  54: Osmia cornuta - OldFood
+  55: Passaloecus - DauLv
+  56: Passaloecus - DeadLv
+  57: Passaloecus - Hatched
+  58: Passaloecus - Lv
+  59: Passaloecus - OldFood
+  60: Pemphredon - DauLv
+  61: Pemphredon - DeadLv
+  62: Pemphredon - Hatched
+  63: Pemphredon - Lv
+  64: Pemphredon - OldFood
+  65: Psenulus - DauLv
+  66: Psenulus - DeadLv
+  67: Psenulus - Hatched
+  68: Psenulus - Lv
+  69: Psenulus - OldFood
+  70: Trypoxylon - DauLv
+  71: Trypoxylon - DeadLv
+  72: Trypoxylon - Hatched
+  73: Trypoxylon - Lv
+  74: Trypoxylon - OldFood
